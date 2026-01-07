@@ -1,4 +1,6 @@
-# Testing is not the same as [[TestAutomation]].
+# Testing
+
+## 1st: Testing is not the same as [[TestAutomation]].
 
 Dan North has a beautiful article on this topic: [We need to talk about testing](https://dannorth.net/blog/we-need-to-talk-about-testing/).
 

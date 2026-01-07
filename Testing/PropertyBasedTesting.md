@@ -1,3 +1,5 @@
+# Property-Based testing
+
 > **Don’t write tests, generate them.**
 
 Property-Based Testing (PBT) is a testing technique where tests are *generated* from **properties** (invariants) that the System Under Test (SUT) must satisfy. Instead of writing individual test cases with fixed inputs and expected outputs, the tester specifies general laws about the system’s behavior, and the framework generates many inputs — often including *sequences of operations* — to try to falsify those laws.

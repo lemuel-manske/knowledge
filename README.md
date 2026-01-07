@@ -7,4 +7,3 @@
 - Technologies worth spending time on to understand more deeply should worth a *Trial*
 - Your personal *Adopt* ring represents the new things you’re most excited about and best practices for solving particular problems
 
-

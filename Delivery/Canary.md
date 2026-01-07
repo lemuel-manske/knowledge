@@ -1,3 +1,5 @@
+# Canary Release
+
 Described in [[ContinuosDelivery]] Canary release is a technique to reduce the risk of introducing a new software version in production by slowly rolling out the change to a small subset of users before rolling it out to the entire infrastructure and making it available to everybody.
 
 When you are happy with the new version, you can start routing a few selected users to it. As you gain more confidence in the new version, you can start routing more users to the new version.
