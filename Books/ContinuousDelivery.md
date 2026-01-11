@@ -1,4 +1,4 @@
-# Continuos Delivery
+# Continuous Delivery
 
 As Kent Beck has put:
 
